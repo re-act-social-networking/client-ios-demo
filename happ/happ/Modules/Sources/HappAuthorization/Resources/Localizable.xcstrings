@@ -1,0 +1,45 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "AuthWelcomeView.Welcome.Promt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Короткий текст приветствие…"
+          }
+        }
+      }
+    },
+    "create new account (action)" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "log in verb" : {
+
+    },
+    "or" : {
+      "comment" : "used in separator in auth screens",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "или"
+          }
+        }
+      }
+    },
+    "Войти" : {
+
+    },
+    "Зарегистрироваться" : {
+
+    },
+    "Начать" : {
+
+    }
+  },
+  "version" : "1.0"
+}
